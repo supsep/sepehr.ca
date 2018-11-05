@@ -1,0 +1,4 @@
+baseURL = "http://sepehr.ca"
+languageCode = "en-us"
+title = "sepehr"
+theme = "academic"
