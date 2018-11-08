@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71ac0ff3-a85d-4e90-9756-7afdbb2c1b26" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/academic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/post/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/project/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/publication/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/slides.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/talk/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/assets/css/reveal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/assets/css/reveal_custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/assets/js/mathjax-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/academic.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/assets.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/fonts/classic.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/fonts/default.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/fonts/playfair.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/i18n/languages.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/1950s.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/apogee.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/coffee.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/cupcake.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/dark.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/default.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/forest.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/ocean.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/demo.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/experience.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/hero.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/hero_carousel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/projects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/publications.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/publications_selected.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/tags.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/talks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/talks_selected.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/teaching.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-1950s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-apogee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-coffee-playfair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-cupcake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-forest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-ocean.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/privacy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/external-project/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/external-project/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/internal-project/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/internal-project/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/clothing-search/cite.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/clothing-search/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/clothing-search/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/person-re-id/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/person-re-id/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/slides/example-slides.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/talk/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/talk/example/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/talk/example/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/tutorial/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/tutorial/example.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/static/img/boards.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/static/img/headers/bubbles-wide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/static/img/portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ca.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/de.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/el.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/en.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/es.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/eu.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/fr.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/id.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/it.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ja.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ko.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/nl.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/pl.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/pt.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ru.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/tr.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/vi.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/zh.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-1950s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-apogee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-coffee-playfair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-cupcake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-forest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-ocean.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-spacer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/docs/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/docs/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/home/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/home/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/cookie_consent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/css/academic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/css/parse_theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/docs_layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/docs_sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/docs_toc_foot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/footer_container.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/footer_section.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/head_custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_author.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_links_div.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_metadata.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/post_li_detailed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/post_li_simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/post_li_stream.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/project_li_card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/project_li_showcase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/project_li_simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_apa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_detailed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_mla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_stream.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/section_pager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/slides.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/talk_li_detailed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/talk_li_simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/talk_li_stream.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widget_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/custom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/experience.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/featurette.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/hero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/hero_carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/posts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/publications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/publications_selected.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/tag_cloud.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/talks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/talks_selected.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/project/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/publication/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/rss.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/publication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/talk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/figure.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/fragment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/gdocs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/hl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/list_categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/list_tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/slide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/speaker_note.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/staticref.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/slides/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/slides/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/slides/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/talk/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/img/icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/img/portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/hugo-academic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/vendor/reveal.js/plugin/notes/notes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/vendor/reveal.js/plugin/notes/notes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/theme.toml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.toml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="9" />
+    <option name="y" value="25" />
+    <option name="width" value="1902" />
+    <option name="height" value="1125" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sepehrca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepehrca" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sepehrca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sepehrca" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71ac0ff3-a85d-4e90-9756-7afdbb2c1b26" name="Default" comment="" />
+      <created>1541634993305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541634993305</updated>
+      <workItem from="1541634995795" duration="2734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1129" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ananke/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
