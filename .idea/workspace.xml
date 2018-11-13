@@ -1,217 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71ac0ff3-a85d-4e90-9756-7afdbb2c1b26" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/academic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/docs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/home.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/post/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/project/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/publication/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/slides.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/archetypes/talk/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/assets/css/reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/assets/css/reveal_custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/assets/js/mathjax-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/academic.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/assets.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/fonts/classic.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/fonts/default.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/fonts/playfair.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/i18n/languages.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/1950s.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/apogee.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/coffee.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/cupcake.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/dark.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/default.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/forest.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/data/themes/ocean.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/demo.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/contact.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/experience.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/hero.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/hero_carousel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/posts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/publications.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/publications_selected.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/search.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/skills.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/tags.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/talks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/talks_selected.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/home/teaching.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-1950s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-apogee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-coffee-playfair.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-cupcake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-forest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/gallery/theme-ocean.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/post/getting-started/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/privacy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/external-project/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/external-project/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/internal-project/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/project/internal-project/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/clothing-search/cite.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/clothing-search/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/clothing-search/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/person-re-id/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/publication/person-re-id/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/slides/example-slides.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/talk/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/talk/example/featured.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/talk/example/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/tutorial/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/content/tutorial/example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/static/img/boards.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/static/img/headers/bubbles-wide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/exampleSite/static/img/portrait.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ca.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/de.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/el.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/en.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/es.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/eu.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/fr.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/id.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/it.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ja.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ko.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/nl.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/pl.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/pt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/ru.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/tr.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/vi.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/i18n/zh.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-1950s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-apogee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-coffee-playfair.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-cupcake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-forest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-ocean.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/theme-spacer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/images/tn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/_default/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/_default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/docs/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/docs/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/home/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/home/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/cookie_consent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/css/academic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/css/parse_theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/docs_layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/docs_sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/docs_toc_foot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/footer_container.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/footer_section.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/head_custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_author.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_links_div.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/page_metadata.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/post_li_detailed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/post_li_simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/post_li_stream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/project_li_card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/project_li_showcase.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/project_li_simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_apa.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_detailed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_mla.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/publication_li_stream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/section_pager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/share.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/slides.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/talk_li_detailed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/talk_li_simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/talk_li_stream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widget_page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/custom.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/experience.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/featurette.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/hero.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/hero_carousel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/posts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/publications.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/publications_selected.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/tag_cloud.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/talks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/partials/widgets/talks_selected.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/project/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/publication/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/publication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/section/talk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/alert.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/figure.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/fragment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/gdocs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/hl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/list_categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/list_tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/slide.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/speaker_note.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/staticref.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/shortcodes/video.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/slides/baseof.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/slides/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/slides/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/layouts/talk/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/img/icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/img/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/img/portrait.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/hugo-academic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/vendor/reveal.js/plugin/notes/notes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/js/vendor/reveal.js/plugin/notes/notes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/static/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/academic/hugo-academic-master/theme.toml" beforeDir="false" />
+    <list default="true" id="566f1f6a-90fb-48f6-9dc4-4f356dca1bca" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/manis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sepehrca.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/archetypes/default.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/contact.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/experience.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/hero.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/hero_carousel.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/projects.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/publications.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/publications_selected.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/search.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/skills.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/talks.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/talks_selected.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/home/teaching.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-1950s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-apogee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-coffee-playfair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-cupcake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-forest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/gallery/theme-ocean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/post/getting-started/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/posts/my-first-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/privacy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/project/external-project/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/project/external-project/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/project/internal-project/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/project/internal-project/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/publication/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/publication/clothing-search/cite.bib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/publication/clothing-search/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/publication/clothing-search/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/publication/person-re-id/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/publication/person-re-id/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/slides/example-slides.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/talk/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/talk/example/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/talk/example/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/tutorial/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/content/tutorial/example.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/reveal_custom.css_d3f53f09220d597dac26fe7840c31fc9.content" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/reveal_custom.css_d3f53f09220d597dac26fe7840c31fc9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/mathjax-config.js_dd4aa44ecb2f6765bf6d6d921265e95a.content" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/mathjax-config.js_dd4aa44ecb2f6765bf6d6d921265e95a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1600x400_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_680x500_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_1600x400_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x0_resize_q90_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_1600x400_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q90_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q75_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_1600x400_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_680x500_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_918x517_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q75_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_1600x400_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_680x500_fill_q90_box_smart1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/_gen/images/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/boards.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/headers/bubbles-wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/portrait.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/academic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/default.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/docs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/home.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/post/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/project/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/publication/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/slides.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/archetypes/talk/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/assets/css/reveal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/assets/css/reveal_custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/assets/js/mathjax-config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/academic.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/assets.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/fonts/classic.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/fonts/default.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/fonts/playfair.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/i18n/languages.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/1950s.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/apogee.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/coffee.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/cupcake.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/dark.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/default.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/forest.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/data/themes/ocean.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/demo.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/config.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/about.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/contact.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/experience.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/hero.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/hero_carousel.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/projects.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/publications.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/publications_selected.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/search.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/skills.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/tags.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/talks.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/talks_selected.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/home/teaching.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-1950s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-apogee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-coffee-playfair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-cupcake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-forest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/gallery/theme-ocean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/post/getting-started/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/privacy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/project/external-project/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/project/external-project/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/project/internal-project/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/project/internal-project/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/publication/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/publication/clothing-search/cite.bib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/publication/clothing-search/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/publication/clothing-search/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/publication/person-re-id/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/publication/person-re-id/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/slides/example-slides.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/talk/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/talk/example/featured.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/talk/example/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/tutorial/_index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/content/tutorial/example.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/static/img/boards.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/static/img/headers/bubbles-wide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/exampleSite/static/img/portrait.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/ca.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/de.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/el.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/en.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/es.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/eu.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/fr.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/id.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/it.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/ja.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/ko.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/nl.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/pl.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/pt.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/ru.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/tr.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/vi.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/i18n/zh.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-1950s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-apogee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-coffee-playfair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-cupcake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-forest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-ocean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/theme-spacer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/images/tn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/_default/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/_default/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/docs/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/docs/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/home/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/home/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/index.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/comments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/cookie_consent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/css/academic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/css/parse_theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/docs_layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/docs_sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/docs_toc_foot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/footer_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/footer_section.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/head_custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/page_author.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/page_header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/page_links.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/page_links_div.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/page_metadata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/post_li_detailed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/post_li_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/post_li_stream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/project_li_card.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/project_li_showcase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/project_li_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/publication_li_apa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/publication_li_detailed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/publication_li_mla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/publication_li_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/publication_li_stream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/section_pager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/share.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/slides.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/talk_li_detailed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/talk_li_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/talk_li_stream.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widget_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/custom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/experience.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/featurette.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/hero.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/hero_carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/posts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/projects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/publications.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/publications_selected.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/tag_cloud.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/talks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/partials/widgets/talks_selected.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/project/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/publication/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/section/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/section/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/section/publication.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/section/talk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/figure.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/fragment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/gdocs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/hl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/list_categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/list_tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/slide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/speaker_note.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/staticref.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/shortcodes/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/slides/baseof.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/slides/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/slides/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/layouts/talk/single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/img/icon-192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/img/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/img/portrait.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/js/hugo-academic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/js/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/js/vendor/reveal.js/plugin/notes/notes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/js/vendor/reveal.js/plugin/notes/notes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/static/site.webmanifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/academic/theme.toml" afterPath="" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="sepehrca.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -219,18 +299,68 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sepehrca" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9107143">
+              <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.toml">
+      <file leaf-file-name="goisforlovers.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/posts/goisforlovers.md">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+            <state vertical-scroll-proportion="-13.82808">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/about/_index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.2">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en.toml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/manis/i18n/en.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/manis/layouts/partials/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -240,137 +370,577 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/content/home/about.md" />
+        <option value="$PROJECT_DIR$/content/home/contact.md" />
+        <option value="$PROJECT_DIR$/content/home/experience.md" />
+        <option value="$PROJECT_DIR$/content/home/hero.md" />
+        <option value="$PROJECT_DIR$/themes/manis/i18n/en.toml" />
+        <option value="$PROJECT_DIR$/themes/manis/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="NamedScopeManager">
+    <order />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="9" />
-    <option name="y" value="25" />
-    <option name="width" value="1902" />
-    <option name="height" value="1125" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="734" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="sepehrca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sepehrca" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sepehrca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sepehrca" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i18n" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sepehrca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71ac0ff3-a85d-4e90-9756-7afdbb2c1b26" name="Default" comment="" />
-      <created>1541634993305</created>
+      <changelist id="566f1f6a-90fb-48f6-9dc4-4f356dca1bca" name="Default" comment="" />
+      <created>1542087831198</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1541634993305</updated>
-      <workItem from="1541634995795" duration="2734000" />
+      <updated>1542087831198</updated>
+      <workItem from="1542087835125" duration="1691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2734000" />
+    <option name="totallyTimeSpent" value="1691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1129" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ananke/exampleSite/config.toml">
+    <entry file="file://$PROJECT_DIR$/content/about/_index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state vertical-scroll-proportion="-4.2">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/manis/i18n/en.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/manis/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="127" column="22" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+        <state vertical-scroll-proportion="-1.9107143">
+          <caret line="39" column="61" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/goisforlovers.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.82808">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
