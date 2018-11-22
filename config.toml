@@ -1,5 +1,5 @@
 baseURL = "sepehr.ca"
-title = "Sep T"
+title = "Sepehr"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
@@ -33,14 +33,15 @@ pygmentsUseClasses = true
 	# Site meta description
 	description = "Sep's website."
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Software Engineer, Agile Leader"
+	tagline = "Rockstar developer, Scrum lord"
+	
 	# If true give attribution to this theme
 	themeAttrib = true
 	# URL to license file, can be outside of your domain
 	licenseURL = "http://creativecommons.org/licenses/by/4.0/"
 
 	# Configure which section for Latest Posts
-	postSection = "posts"
+	#postSection = "posts"
 	# Configure which section for Latest Works
 	#workSection = "work"
 
