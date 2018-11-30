@@ -1,4 +1,4 @@
-baseURL = "http://sepehr.ca/"
+#baseURL = "http://supsep.github.io/sepehr.ca/"
 relativeURLS=true
 
 title = "Sep"
@@ -43,7 +43,7 @@ pygmentsUseClasses = true
 	licenseURL = "http://creativecommons.org/licenses/by/4.0/"
 
 	# Configure which section for Latest Posts
-	#postSection = "posts"
+	postSection = "posts"
 	# Configure which section for Latest Works
 	#workSection = "work"
 
