@@ -18,7 +18,7 @@
       
       <guid>/posts/appvalleyremove/</guid>
       <description>For users who downloaded AppValley&amp;rsquo;s un-revokable Configuration Profile, and are concerned about their privacy - this is how to remove it.
-Download and install the following profile: 
+Download and install the following profile: appvalley.mobileconfig
 Once installed you, go to the following in settings General -&amp;gt; Device Management -&amp;gt; appvalley
 Then press Remove Profile.
 There will be a follow-up post on the mechanism behind this.</description>
