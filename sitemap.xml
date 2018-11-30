@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/appvalleyremove/</loc>
+    <lastmod>2018-11-29T21:50:06-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
     <lastmod>2017-07-02T08:14:51+07:00</lastmod>
   </url>
@@ -13,6 +18,7 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2018-11-29T21:50:06-08:00</lastmod>
     <priority>0</priority>
   </url>
   
