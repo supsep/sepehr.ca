@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sepehr.ca/posts/unlimappinstall/</loc>
+    <lastmod>2018-12-02T10:17:20-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sepehr.ca/posts/appvalleyremove/</loc>
     <lastmod>2018-11-29T21:50:06-08:00</lastmod>
   </url>
@@ -18,7 +23,7 @@
   
   <url>
     <loc>http://sepehr.ca/</loc>
-    <lastmod>2018-11-29T21:50:06-08:00</lastmod>
+    <lastmod>2018-12-02T10:17:20-08:00</lastmod>
     <priority>0</priority>
   </url>
   

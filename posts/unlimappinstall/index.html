@@ -4,13 +4,11 @@
 		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="generator" content="Hugo 0.50" />
-		<title>Remove AppValley Configuration Profile from iPhone (iOS) - Sep</title>
+		<title>Escape UnlimApps &#43;&#43; dependency hell on Electra (iOS 11) - Sep</title>
 
-		<meta name="description" content="For users who downloaded AppValley&rsquo;s un-revokable Configuration Profile, and are concerned about their privacy - this is how to remove it.
-Download and install the following profile: appvalley.mobileconfig
-Once installed you, go to the following in settings General -&gt; Device Management -&gt; appvalley
-Then press Remove Profile.
-There will be a follow-up post on the mechanism behind this.">
+		<meta name="description" content="Installing Instagram&#43;&#43; on jailbroken iOS11 is no issue for most people, troublesome for some. Here is a guide on how to install UnlimApps on electra.
+What you need:
+ Jailbroken iOS11 with shell access (via ssh or NewTerm 2) uasharedtools 2.2r-70 Latest .deb of the &#43;&#43; app you want to install: List of Apps (For use of this guide, we will use Instagram&#43;&#43; as an example).  Steps  Open Chrome on your iOS device and download the required .">
 
 
 		
@@ -74,10 +72,10 @@ There will be a follow-up post on the mechanism behind this.">
 
 <article>
 	<header><hgroup id="brand">
-	<h1>Remove AppValley Configuration Profile from iPhone (iOS)</h1>
+	<h1>Escape UnlimApps &#43;&#43; dependency hell on Electra (iOS 11)</h1>
 	<h5>
 		
-		<time datetime="2018-11-29 21:50:06 -0800 PST">Nov 29, 2018</time>
+		<time datetime="2018-12-02 10:17:20 -0800 PST">Dec 02, 2018</time>
 		<span class="no-print">
 			<span>
 	</h5>
@@ -85,22 +83,39 @@ There will be a follow-up post on the mechanism behind this.">
 </hgroup>
 <hr class="sep" />
 </header>
-	<p>For users who downloaded AppValley&rsquo;s un-revokable Configuration Profile, and are concerned about their privacy - this is how to remove it.</p>
+	
 
-<p>Download and install the following profile: <strong><a href="appvalley.mobileconfig">appvalley.mobileconfig</a></strong></p>
+<p>Installing Instagram++ on jailbroken iOS11 is no issue for most people, troublesome for some. Here is a guide on how to install UnlimApps on electra.</p>
 
-<p>Once installed you, go to the following in settings <strong>General</strong> -&gt; <strong>Device Management</strong> -&gt; <strong>appvalley</strong></p>
+<p>What you need:</p>
 
-<p>Then press <strong>Remove Profile.</strong></p>
+<ul>
+<li>Jailbroken iOS11 with shell access (via ssh or <a href="https://repo.chariz.io/package/ws.hbang.newterm2/">NewTerm 2</a>)</li>
+<li><a href="http://beta.unlimapps.com/deb/com.unlimapps.uasharedtools_2.2r-70_iphoneos-arm.deb">uasharedtools 2.2r-70</a></li>
+<li>Latest .deb of the ++ app you want to install: <a href="https://www.ios-repo-updates.com/repository/unlimapps/">List of Apps</a> (For use of this guide, we will use <a href="http://beta.unlimapps.com/deb/com.unlimapps.gramplus_1.8r-210_iphoneos-arm.deb">Instagram++</a> as an example).</li>
+</ul>
 
-<p>There will be a follow-up post on the mechanism behind this.</p>
+<h2 id="steps">Steps</h2>
+
+<ol>
+<li>Open Chrome on your iOS device and download the required .debs:  <a href="http://beta.unlimapps.com/deb/com.unlimapps.uasharedtools_2.2r-70_iphoneos-arm.deb">uasharedtools 2.2r-70</a> and <a href="http://beta.unlimapps.com/deb/com.unlimapps.gramplus_1.8r-210_iphoneos-arm.deb">Instagram++</a></li>
+<li>Open MTerminal and enter the following:
+<pre><code class="console">$ cd /var/mobile/Documents
+$ dpkg -i &ndash;ignore-depends=com.unlimapps.uasharedtools.virtual com.unlimapps.uasharedtools_2.2r-70_iphoneos-arm.deb
+$ dpkg -i com.unlimapps.gramplus_1.8r-210_iphoneos-arm.deb
+</code></pre></li>
+<li>Open Cydia and add <a href="http://beta.unlimapps.com">http://beta.unlimapps.com</a> as a source.</li>
+<li>Upgrade uasharedtools and Instagram++.</li>
+</ol>
+
+<p>This is a workaround and not a solution.</p>
 
 </article>
 <nav class="no-print post-nav">
 
+	<a class="prev-post" href="http://sepehr.ca/posts/appvalleyremove/">
+		<img class="icon-text" src="../../img/prev.svg"/>Remove AppValley Configuration Profile from iPhone (iOS)</a>
 
-	<a class="next-post" href="http://sepehr.ca/posts/unlimappinstall/">Escape UnlimApps &#43;&#43; dependency hell on Electra (iOS 11)<img class="icon-text" src="../../img/next.svg"/>
-	</a>
 
 </nav>
 
