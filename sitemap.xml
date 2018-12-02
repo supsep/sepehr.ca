@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/appvalleyremove/appvalleyremove/</loc>
+    <loc>http://sepehr.ca/posts/appvalleyremove/</loc>
     <lastmod>2018-11-29T21:50:06-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>http://sepehr.ca/posts/</loc>
     <lastmod>2017-07-02T08:14:51+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://sepehr.ca/about/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://sepehr.ca/</loc>
     <lastmod>2018-11-29T21:50:06-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://sepehr.ca/tags/</loc>
     <priority>0</priority>
   </url>
   
