@@ -1,4 +1,4 @@
-#baseURL = "http://supsep.github.io/sepehr.ca/"
+baseURL = "http://sepehr.ca/"
 relativeURLS=true
 
 title = "Sep"
